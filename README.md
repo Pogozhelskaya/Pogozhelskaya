@@ -21,8 +21,9 @@ Pogozhelskaya = Developer()
 
 ## 👩‍💻 Work:
 
+- __Postgres Professional__, Optimization Lab, 'Software Developer', May 2024 - Present
+- __Huawei Russian Research Institute__, R&D Toolchain Technologies Lab, 'Software Engineer', May 2022 - May 2024
 - __Jetbrains Research__, Programming Languages and Tools Lab, 'Researcher', Jun 2020 - March 2022
-- __Huawei Russian Research Institute__, R&D Toolchain Technologies Lab, 'Software Engineer', May 2022 - Present
  
 
 ## 📚 Education:
